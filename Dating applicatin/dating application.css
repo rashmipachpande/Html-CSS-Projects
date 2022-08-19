@@ -1,0 +1,25 @@
+h1.top{
+  color: black;
+  font-size: 50px;
+  background-color: rgb(150, 10, 87);
+  margin-left: 500px;
+  margin-right: 500px;
+}
+body {
+  background-color: rgb(124, 5, 98);
+}
+div#design {
+  background-color: rgb(141, 109, 134);
+    color: black;
+    font-style: italic;
+    font-size: x-large;
+    font-weight: bold;
+    border: 2px solid black;
+    padding: 1em;
+    margin-top: 20px;
+  margin-bottom: 150px;
+  margin-right: 150px;
+  margin-left: 150px;
+  }
+
+  
