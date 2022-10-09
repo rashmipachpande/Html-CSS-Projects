@@ -1,0 +1,13 @@
+.grad {
+    /* top to bottom */
+      background-image: linear-gradient(red, black);
+      /* to right */
+      background-image: linear-gradient(to right, blue, rgb(193, 38, 63));
+      /* to left */
+      background-image: linear-gradient(to left top, blue, red);
+
+      /*edit the line above to specify the gradient direction*/
+      width: 100vw;
+      height: 100vh;
+    }
+    
