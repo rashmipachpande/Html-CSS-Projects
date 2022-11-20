@@ -1,0 +1,15 @@
+#head {
+width: 300px;
+  background-color:#6a5acd;
+  border: 15px solid #5939a2;
+  padding: 50px;
+  margin: 20px;
+}
+
+.head2 {
+width: 300px;
+  background-color:#3cb371;
+  border: 15px solid green;
+  padding: 50px;
+  margin: 20px;
+}
